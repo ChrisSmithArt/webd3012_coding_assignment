@@ -18,7 +18,7 @@ docker build -t csmith11:1.0 .
 
 launch the app with the following command
 ``` 
-docker run -dp 7775:7775 --name chrisReact csmith11:1.0
+docker run -dp 7775:7775 --name smith_chris_coding_assignment11 csmith11:1.0
 ```
 
 # ACCESS #
